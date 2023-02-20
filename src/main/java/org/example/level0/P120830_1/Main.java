@@ -1,7 +1,5 @@
 package org.example.level0.P120830_1;
 
-import java.util.stream.IntStream;
-
 public class Main {
     public static void main(String[] args) {
     }
